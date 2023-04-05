@@ -76,6 +76,7 @@
     max-width: 90%;
     background-color: #ffffff;
     margin: auto;
+    text-align: center;
   }
 
   .preview {
@@ -93,5 +94,10 @@
   }
 
   .preview a{
+    color: black;
+  }
+
+  .title {
+    font-size: 24pt;
     color: black;
   }
