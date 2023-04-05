@@ -71,3 +71,14 @@
   body {
     background-color: #88b7feff;
   }
+
+  .menu {
+    max-width: 80%;
+    background-color: #ffffff;
+  }
+
+  .preview img{
+    border-width: 5px;
+    border-style: dashed;
+    border-color: #333;
+  }
