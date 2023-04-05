@@ -75,10 +75,17 @@
   .menu {
     max-width: 80%;
     background-color: #ffffff;
+    margin:auto
+  }
+
+  .preview {
+    padding: 72px 72px 72px 72px;
   }
 
   .preview img{
     border-width: 5px;
     border-style: dashed;
     border-color: #333;
+    min-width: 80%;
+    min-height: 60%;
   }
