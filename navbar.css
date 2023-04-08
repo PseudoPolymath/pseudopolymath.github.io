@@ -102,3 +102,7 @@
     font-size: 24pt;
     color: black;
   }
+
+  .doc-content {
+    margin: auto;
+  }
